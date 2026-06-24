@@ -1,11 +1,11 @@
 # Hi, I'm Pavan Kumar 👋
 
 ## About Me
-- BCA Final Year Student
-- Python Developer
-- Machine Learning Enthusiast
-- Face Recognition Attendance System Project
-
+- 🎓 BCA Final Year Student
+- 💻 Python Developer
+- 🤖 Machine Learning Enthusiast
+- 📷 Developed Face Recognition Attendance System
+- 🌱 Currently Learning AI & Data Science
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql" />
+</p>
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpavankumar278-debug&show_icons=true&theme=tokyonight)
