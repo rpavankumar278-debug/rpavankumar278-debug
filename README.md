@@ -29,3 +29,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpavankumar278-debug&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rpavankumar278-debug&theme=tokyonight)
