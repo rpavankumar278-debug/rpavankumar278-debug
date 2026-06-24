@@ -2,14 +2,11 @@
 
 ## About Me
 - 🎓 BCA Final Year Student
-- 💻 Python Developer
-- 🤖 Machine Learning Enthusiast
+- 💻 Passionate about Python & AI/ML
 - 📷 Developed Face Recognition Attendance System
 - 🌱 Currently Learning AI & Data Science
-## Languages and Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🌐 Exploring Networking Concept & real-world system
+- 🔍 Always curious to learn new technologies & build real-world projects
 
 ## GitHub Stats
 
