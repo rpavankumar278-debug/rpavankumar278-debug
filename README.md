@@ -4,9 +4,40 @@
 - 🎓 BCA Final Year Student
 - 💻 Passionate about Python & AI/ML
 - 📷 Developed Face Recognition Attendance System
-- 🌱 Currently Learning AI & Data Science
 - 🌐 Exploring Networking Concept & real-world system
 - 🔍 Always curious to learn new technologies & build real-world projects
+
+
+- ## 🚀 Featured Project
+
+### 🎯 Face Attendance System
+
+A smart attendance management system that uses Face Recognition technology to automatically mark student attendance.
+
+#### 🔹 Features
+- 📷 Real-Time Face Detection
+- 🧑‍🎓 Student Registration System
+- ✅ Automatic Attendance Marking
+- 📊 Attendance Reports
+- 📁 Excel/CSV Export
+- 🔍 Multiple Student Recognition
+- 🌐 Flask Web Dashboard
+- 💾 Database Integration
+
+#### 🛠️ Technologies Used
+- Python
+- OpenCV
+- Flask
+- SQLite
+- HTML
+- CSS
+- JavaScript
+
+#### 📂 Project Repository
+[Face Attendance System](https://github.com/rpavankumar278-debug/face-attendance-system)
+
+#### 🎓 Project Type
+Final Year BCA Project
 
 ## 📊GitHub Stats
 
