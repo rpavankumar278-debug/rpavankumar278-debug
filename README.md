@@ -8,7 +8,7 @@
 - 🌐 Exploring Networking Concept & real-world system
 - 🔍 Always curious to learn new technologies & build real-world projects
 
-## GitHub Stats
+## 📊GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpavankumar278-debug&show_icons=true)
 
